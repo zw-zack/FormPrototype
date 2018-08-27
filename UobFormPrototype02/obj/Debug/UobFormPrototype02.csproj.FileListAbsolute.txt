@@ -1,0 +1,15 @@
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\bin\Debug\UobFormPrototype02.exe.config
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\bin\Debug\UobFormPrototype02.exe
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\bin\Debug\UobFormPrototype02.pdb
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.UobForm.resources
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.Properties.Resources.resources
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.UserControlLogs.resources
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.UserControlProcesses.resources
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.UserControlServers.resources
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.UserControlServices.resources
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.UserControlSystemInformation.resources
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.csproj.GenerateResource.cache
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.csproj.CoreCompileInputs.cache
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.exe
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.pdb
+C:\Users\zwchua\source\repos\UobFormPrototype02\UobFormPrototype02\obj\Debug\UobFormPrototype02.csprojAssemblyReference.cache
